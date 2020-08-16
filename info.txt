@@ -1,0 +1,13 @@
+1 st api
+Request URL:https://chrome.google.com/webstore/reviews/get?hl=en&gl=IN&pv=20200420&mce=atf%2Cpii%2Crtr%2Crlb%2Cgtc%2Chcn%2Csvp%2Cwtd%2Chap%2Cnma%2Cdpb%2Car2%2Cctm%2Cac%2Chot%2Cmac%2Cfcf%2Crma%2Clrc%2Cirt%2Cscm%2Cder%2Cbgi%2Cbem%2Crae%2Cshr%2Cdda%2Cigb%2Cdsq%2Cqso&_reqid=1151496&rt=j
+
+f.req	"[\"http://chrome.google.com/extensions/permalink?id=einnffiilpmgldkapbikhkeicohlaapj\",\"en\",[25],1,[2],true]"
+
+2nd api
+Request URL:https://chrome.google.com/webstore/reviews/get?hl=en&gl=IN&pv=20200420&mce=atf%2Cpii%2Crtr%2Crlb%2Cgtc%2Chcn%2Csvp%2Cwtd%2Chap%2Cnma%2Cdpb%2Car2%2Cctm%2Cac%2Chot%2Cmac%2Cfcf%2Crma%2Clrc%2Cirt%2Cscm%2Cder%2Cbgi%2Cbem%2Crae%2Cshr%2Cdda%2Cigb%2Cdsq%2Cqso%2Cpot%2Cevt&_reqid=2251496&rt=j
+
+f.req	"[\"http://chrome.google.com/extensions/permalink?id=einnffiilpmgldkapbikhkeicohlaapj\",\"en\",[25,null,\"KnoKR/cAAtgm/mtesJielp7Fz8/Pz8/Pyc/GnMzHys7IzcXOxZyXjZCSmqCImp2Mi5CNmsXOz8rLy8bMz8rJys3Kx8rIzMbPyf/+EBkhZ6WjQTRLWe8x1msoL7EqD5w5T6GUAdkn/f9QAFoLCdq9QsMSsnXREANgzOyjWjIbChkKF19hdHRyX2RvdWJsZV9jd3NfcXNjb3Jl\"],1,[2]]"
+
+3rd 
+
+Request URL:https://chrome.google.com/webstore/reviews/get?hl=en&gl=IN&pv=20200420&mce=atf%2Cpii%2Crtr%2Crlb%2Cgtc%2Chcn%2Csvp%2Cwtd%2Chap%2Cnma%2Cdpb%2Car2%2Cctm%2Cac%2Chot%2Cmac%2Cfcf%2Crma%2Clrc%2Cirt%2Cscm%2Cder%2Cbgi%2Cbem%2Crae%2Cshr%2Cdda%2Cigb%2Cdsq%2Cqso%2Cpot%2Cevt&_reqid=3251496&rt=j
